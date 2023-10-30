@@ -1,0 +1,10 @@
+fieldset
+{
+    width: fit-content;
+    height: fit-content;
+    color: red;
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px;
+    
+}
